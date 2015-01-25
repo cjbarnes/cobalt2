@@ -1,3 +1,13 @@
+#cobalt2ish
+
+The excellent Cobalt2 theme for Sublime Text, with a few minor tweaks here and there.
+
+Alterations so far:
+
+* Style `punctuation.whitespace.comment.trailing` the same as `comment`, to fix the colour of `/*` and `*/` in the SCSS syntax highlighting package.
+
+* * *
+
 #cobalt2
 A Sublime Text theme based on our old blue friend cobalt.
 
