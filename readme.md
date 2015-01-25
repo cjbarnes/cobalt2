@@ -5,6 +5,8 @@ The excellent Cobalt2 theme for Sublime Text, with a few minor tweaks here and t
 Alterations so far:
 
 * Style `punctuation.whitespace.comment.trailing` the same as `comment`, to fix the colour of `/*` and `*/` in the SCSS syntax highlighting package.
+ 
+Original readme continues...
 
 * * *
 
